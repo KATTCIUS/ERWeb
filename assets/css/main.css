@@ -6667,5 +6667,7 @@ section {
   padding-top: 100px; 
 }
 
-
+.cmn--btn-2 i.fab.fa-whatsapp {
+  margin-left: 3px; /* o el tamaño que prefieras */
+}
 
