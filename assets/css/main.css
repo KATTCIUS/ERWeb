@@ -5009,7 +5009,7 @@ ul.filter li.active {
   top: 0;
   height: 100%;
   width: 100%;
-  background: rgba(234, 58, 96, 0.8);
+  background: #3d4a38;
   -webkit-transform: scale(0.8) translateY(20px);
           transform: scale(0.8) translateY(20px);
   opacity: 0;
